@@ -15,10 +15,10 @@ White-nose syndrome is a devastating fungal disease affecting bat colonies acros
 
 Key Features
 
-📍 Real-World Cave Mapping: The simulation uses a 3D model of Grand Caverns to provide a realistic spatial context for bat movement.
-🦇 Bat Behavior Modeling: Bats follow behavioral rules including roosting, foraging, and group movement based on proximity and cave zones.
-🧫 Disease Transmission: White-nose syndrome is introduced to simulate how infection propagates through bat interactions over time.
-📊 Data Tracking: The simulation collects data on infection rates, survival, and spread patterns, which can be exported for analysis.
+Real-World Cave Mapping: The simulation uses a 3D model of Grand Caverns to provide a realistic spatial context for bat movement.
+Bat Behavior Modeling: Bats follow behavioral rules including roosting, foraging, and group movement based on proximity and cave zones.
+Disease Transmission: White-nose syndrome is introduced to simulate how infection propagates through bat interactions over time.
+Data Tracking: The simulation collects data on infection rates, survival, and spread patterns, which can be exported for analysis.
 
 Tools & Technologies
 
